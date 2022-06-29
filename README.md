@@ -1,8 +1,8 @@
 # Transfer and Share: Semi-Supervised Learning from Long-Tailed Data
 
-by [Tong Wei](https://cse.seu.edu.cn/_s191/2022/0211/c23024a398491/page.psp), [Qian-Yu Liu](http://www.lamda.nju.edu.cn/liuqy/), [Jiang-Xin Shi](http://www.lamda.nju.edu.cn/shijx/), Wei-Wei Tu and [Lan-Zhe Guo](http://www.lamda.nju.edu.cn/guolz/) at SEU, NJU and 4Paradigm Inc.
+by [Tong Wei](http://palm.seu.edu.cn/weitong/homepage.html), [Qian-Yu Liu](http://www.lamda.nju.edu.cn/liuqy), [Jiang-Xin Shi](http://www.lamda.nju.edu.cn/shijx), Wei-Wei Tu and [Lan-Zhe Guo](http://www.lamda.nju.edu.cn/guolz) at SEU, NJU, and 4Paradigm Inc.
 
-[Preprint](https://arxiv.org/abs/2205.13358)
+<code>[Preprint](https://arxiv.org/abs/2205.13358)</code>
 
 <img src="framework.png" width="50%" />
 
