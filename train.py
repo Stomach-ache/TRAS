@@ -62,7 +62,7 @@ parser.add_argument('--tro_train', default=1.0, type=float, help='tro for logit 
 # Tras
 parser.add_argument('--A', type=int, default=2,
                         help='hyper-parameter 1 for Tras')
-parser.add_argument('--B', type=int, default=3,
+parser.add_argument('--B', type=int, default=2,
                         help='hyper-parameter 2 for Tras')
 
 args = parser.parse_args()
