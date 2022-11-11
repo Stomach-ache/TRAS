@@ -18,7 +18,7 @@ If you find our work inspiring or use our codebase in your research, please cons
 @article{wei2022transfer,
   title={Transfer and Share: Semi-Supervised Learning from Long-Tailed Data},
   author={Wei, Tong and Liu, Qian-Yu and Shi, Jiang-Xin and Tu, Wei-Wei and Guo, Lan-Zhe},
-  journal={arXiv preprint arXiv:2205.13358},
+  journal={Machine Learning},
   year={2022}
 }
 ```
